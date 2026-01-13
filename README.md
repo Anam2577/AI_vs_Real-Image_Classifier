@@ -170,9 +170,7 @@ Limited to image-based detection (no video yet)
 
 👨‍💻 Author
 
-Aftab Alam
-Full Stack Developer | AI & ML Enthusiast
-🔗 LinkedIn / GitHub: (Add your links)
+Anam Fatima, Aftab Alam, Arjita Sahu
 
 📜 License
 
